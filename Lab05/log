@@ -1,0 +1,23 @@
+/home/ssfragkou/Lab05
+log
+mkdir: cannot create directory ‘new_folder’: File exists
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303062      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1310/ssfragkou)   Gid: ( 1312/ssfragkou)
+Access: 2024-12-16 11:30:56.734070978 +0200
+Modify: 2024-12-16 11:30:56.734070978 +0200
+Change: 2024-12-16 11:30:56.734070978 +0200
+ Birth: -
+rm: cannot remove 'example.c': No such file or directory
+.
+./new_folder
+./filename
+./log
+./.example1.c
+find: ‘name’: No such file or directory
+find: ‘pattern’: No such file or directory
+cat: file.txt: No such file or directory
+head: cannot open 'file.txt' for reading: No such file or directory
+file.txt: No such file or directory
+tail: cannot open 'file.txt' for reading: No such file or directory
